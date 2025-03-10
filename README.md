@@ -1,7 +1,7 @@
 # sustiCOLE
 Una hoja de cálculo de Google para preparar las sustituciones en un centro educativo.
 
-[](https://github.com/aosucas499/sustiCOLE/blob/7ce650aa473b2d3c29217f516b2255795611cf06/pictures/susticole2.png)
+![](https://github.com/aosucas499/sustiCOLE/blob/7ce650aa473b2d3c29217f516b2255795611cf06/pictures/susticole2.png)
 
 [ENLACE a la hoja](https://docs.google.com/spreadsheets/d/1XjptQQhdkmR34dncXOOWNBoLD4R-9_O29xz6hQI8adI/copy)
 
